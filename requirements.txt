@@ -1,0 +1,2 @@
+# Requires: unlikely-silence
+# (Not available on PyPI)
